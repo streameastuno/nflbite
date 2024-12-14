@@ -55,7 +55,7 @@ const channels = {
             cell.classList.add('channel-cell');
             
             const anchor = document.createElement('a');
-            anchor.href = `https://www.daddylivehd.info/p/livess.html#${encodeURIComponent(channel)}`;
+            anchor.href = `https://v3.sportsurge.uno/#${encodeURIComponent(channel)}`;
             anchor.target = '_blank';
             anchor.rel = 'noopener';
             anchor.textContent = channel;
